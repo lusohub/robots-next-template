@@ -1,1 +1,1 @@
-# robots-next-template
+# robots-next
